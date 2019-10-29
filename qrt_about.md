@@ -44,3 +44,11 @@ implementation 'cn.simonlee.xcodescanner:zbar:1.1.7'
 implementation 'jp.wasabeef:blurry:2.1.1'
 implementation 'com.mjun:mtransition:0.1.3'
 ```
+
+
+# 接口数据来源
+主机 https://www.mxnzp.com
+开源项目 https://github.com/MZCretin/RollToolsApi
+
+
+
