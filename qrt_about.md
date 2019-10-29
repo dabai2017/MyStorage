@@ -1,4 +1,9 @@
+
 # 二维码工具 - QRT
+
+
+# 使用本软件造成的任何结果，均与开发者无关。由使用者承担责任。
+
 v2.0 用到的权限
 ```
 <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" /> <!-- 联系人权限 -->
@@ -47,8 +52,10 @@ implementation 'com.mjun:mtransition:0.1.3'
 
 
 # 接口数据来源
-主机 https://www.mxnzp.com
-开源项目 https://github.com/MZCretin/RollToolsApi
+主机 https://www.mxnzp.com  
+开源项目 https://github.com/MZCretin/RollToolsApi  
+
+
 
 
 
