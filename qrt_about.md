@@ -54,7 +54,7 @@ implementation 'com.mjun:mtransition:0.1.3'
 # 接口数据来源
 主机 https://www.mxnzp.com  
 开源项目 https://github.com/MZCretin/RollToolsApi  
-
+蓝奏云解析 http://api2.funs.ml
 
 
 
